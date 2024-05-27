@@ -1,0 +1,16 @@
+# Ecosystem Level Information
+title = "Wand Finance"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/wandfi"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/wandfi/wand-ui-site"
+
+[[repo]]
+url = "https://github.com/wandfi/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/wandfi/wand-contract"
